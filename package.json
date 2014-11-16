@@ -28,6 +28,9 @@
   "homepage": "https://github.com/tenphi/wdio-pack",
   "dependencies": {
     "chai": "^1.10.0",
+    "es6-shim": "^0.20.2",
+    "glob": "^4.0.6",
+    "lodash": "^2.4.1",
     "mocha": "^2.0.1",
     "selenium-standalone": "^2.44.0-1",
     "webdriverio": "^2.3.0"
