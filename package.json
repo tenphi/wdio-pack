@@ -1,0 +1,35 @@
+{
+  "name": "wdio-pack",
+  "version": "0.0.1",
+  "description": "WebDriverIO Boilerplate with Selenium Server, Mocha and Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tenphi/wdio-pack.git"
+  },
+  "keywords": [
+    "selenium",
+    "webdriver",
+    "testing",
+    "pack",
+    "utility",
+    "e2e",
+    "mocha",
+    "chai"
+  ],
+  "author": "Andrey Yamanov <tenphi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tenphi/wdio-pack/issues"
+  },
+  "homepage": "https://github.com/tenphi/wdio-pack",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1",
+    "selenium-standalone": "^2.44.0-1",
+    "webdriverio": "^2.3.0"
+  }
+}
